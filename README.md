@@ -18,5 +18,3 @@ This is a coursework project for a module on object-oriented programming. The pr
 ## Contributing
 Contributions are welcome! Submit bug reports, feature requests, or pull requests through GitHub.
 
-## License
-This project is licensed under the [MIT License](LICENSE).
